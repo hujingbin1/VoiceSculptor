@@ -7,7 +7,7 @@
     <b><em>VoiceSculptor: Your Voice, Designed By You</em></b>
     </p>
     <p>
-    <img src="assets/VoiceSculptor.png" style="width: 200px; height: 68px;">
+    <img src="assets/VoiceSculptor.png" style="width: 200px; height: 200px;">
     </p>
     <p>
         An instruct text-to-speech model based on LLaSA and CosyVoice2 developed by ASLP.
