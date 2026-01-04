@@ -16,10 +16,9 @@
 
 ## Demo Video
 
-<div align="center">
-  <https://github.com/ASLP-lab/VoiceSculptor/blob/main/demo/demo_video.mp4>
-</div>
-
+<video width="400" controls>
+  <source src="demo/demo_video.mp4" type="video/mp4">
+</video>
 
 ## 🚀 Getting Started
 
