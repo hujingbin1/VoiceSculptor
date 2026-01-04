@@ -16,9 +16,12 @@
 
 ## Demo Video
 
-<div>
-  <https://github.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d.mp4>
+<div align="center">
+
+<https://github.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d>
+
 </div>
+
 
 ## 🚀 Getting Started
 
