@@ -14,6 +14,12 @@
     <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue' alt="HF-demo"></a>
 </div>
 
+## Demo Video
+<p>
+    <img src="demo/demo_video.mov" style="width: 400px; height: 400px;">
+</p>
+
+
 ## 🚀 Getting Started
 
 ### 1. Environment Setup
