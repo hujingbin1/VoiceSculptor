@@ -16,7 +16,7 @@
 
 ## Demo Video
 <p>
-    <img src="demo/demo_video.mov" style="width: 400px; height: 400px;">
+    <video src="demo/demo_video.mov" style="width: 400px; height: 400px;">
 </p>
 
 
