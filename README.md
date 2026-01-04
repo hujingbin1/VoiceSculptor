@@ -16,10 +16,12 @@
 
 ## Demo Video
 
-<div>
-  <https://github.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d>
+<div align="center">
+  <video width="400" controls>
+    <source src="https://media.githubusercontent.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d" type="video/mp4">
+    您的浏览器不支持 video 标签。
+  </video>
 </div>
-
 
 ## 🚀 Getting Started
 
