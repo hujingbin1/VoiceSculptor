@@ -15,11 +15,11 @@
 </div>
 
 ## Demo Video
-<p>
-  <video src="demo/demo_video.mov"
-         style="width:400px; height:400px;">
-  </video>
-</p>
+
+<div align="center">
+  <https://github.com/ASLP-lab/VoiceSculptor/blob/main/demo/demo_video.mov>
+</div>
+
 
 ## 🚀 Getting Started
 
