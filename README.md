@@ -17,7 +17,7 @@
 ## Demo Video
 
 <div align="center">
-  <https://github.com/ASLP-lab/VoiceSculptor/blob/main/demo/demo_video.mov>
+  <https://github.com/ASLP-lab/VoiceSculptor/blob/main/demo/demo_video.mp4>
 </div>
 
 
