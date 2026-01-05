@@ -15,6 +15,29 @@
     <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 </div>
 
+## 📊 Instruct TTS Eval
+
+#### Instruct TTS Eval (ZH)
+
+| Model | APS (%) | DSD (%) | RP (%) | AVG (%) |
+|------|---------|---------|--------|---------|
+| Gemini 2.5-Flash* | 88.2 | 90.9 | 77.3 | 85.4 |
+| Gemini 2.5-Pro* | 89.0 | 90.1 | 75.5 | 84.8 |
+| GPT-4o-Mini-TTS* | 54.9 | 52.3 | 46.0 | 51.1 |
+| ElevenLabs* | 42.8 | 50.9 | 59.1 | 50.9 |
+| VoxInstruct | 47.5 | 52.3 | 42.6 | 47.5 |
+| MiMo-Audio-7B-Instruct | 70.17 | 66.1 | 57.1 | 64.5 |
+| **VoiceSculptor** | **77.9** | **65.9** | **59.1** | **67.6** |
+
+> **Note**
+>
+> - Models marked with `*` are commercial models.  
+> - **InstructTTSEval** — Huang, K., Tu, Q., Fan, L., Yang, C., Zhang, D., Li, S., Fei, Z., Cheng, Q., & Qiu, X. (2025).  
+>   *InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems.*  
+>   arXiv preprint arXiv:2506.16381.  
+>   [arXiv](https://arxiv.org/abs/2506.16381)
+
+
 ## ✨ Demo Video
 
 <div align="center">
@@ -63,7 +86,7 @@ please refer to [Voice Design Guide](docs/voice_design.md) or [Voice Design Guid
 python infer.py
 ```
 
-### 4. WebUI
+<!-- ### 4. WebUI
 
 ```bash
 python gradio.py
@@ -74,7 +97,7 @@ python gradio.py
 
 ```bash
 python build_rag.py
-```
+``` -->
 
 
 ## 📋 TODO
