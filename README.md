@@ -8,7 +8,7 @@
     <p>
     <img src="assets/logo.png" style="width: 400px; height: 400px;">
     </p>
-    <a href="https://hujingbin1.github.io/VoiceSculptor-demo-page-refine/"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
+    <a href="https://hujingbin1.github.io/VoiceSculptor-Demo"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
     <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue' alt="HF-model"></a>
     <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src='https://img.shields.io/badge/Report-Github?label=Technical&color=red' alt="technical report"></a>
     <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue' alt="HF-demo"></a>
@@ -91,6 +91,12 @@ python build_rag.py
 ## Citation
 
 ```bibtex
+@misc{VoiceSculptor,
+      title={VoiceSculptor: Your Voice, Designed By You},
+      author={Jingbin Hu and Huakang Chen and Linhan Ma and Dake Guo and Qirui Zhan and Wenhao Li and Haoyu Zhang and Kangxiang Xia and Ziyu Zhang and Wenjie Tian and Chengyou Wang and Jinrui Liang and Shuhan Guo and Zihang Yang and Bengu Wu and Binbin Zhang and Pengcheng Zhu and Pengyuan Xie and Chuan Xie and Qiang Zhang and Jie Liu and Lei Xie},
+      year={2026},
+      url={https://github.com/ASLP-lab/VoiceSculptor},
+}
 @misc{ye2025llasascalingtraintimeinferencetime,
       title={Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis},
       author={Zhen Ye and Xinfa Zhu and Chi-Min Chan and Xinsheng Wang and Xu Tan and Jiahe Lei and Yi Peng and Haohe Liu and Yizhu Jin and Zheqi Dai and Hongzhan Lin and Jianyi Chen and Xingjian Du and Liumeng Xue and Yunlin Chen and Zhifei Li and Lei Xie and Qiuqiang Kong and Yike Guo and Wei Xue},
@@ -130,7 +136,7 @@ As a generative model, the voices produced by this system are synthetic outputs 
 
 The generated voice characteristics do not represent or reproduce any specific real individual, and are not derived from or intended to imitate identifiable persons.
 
-We advocate for the responsible development and use of AI and encourage the community to uphold safety and ethical principles in AI research and applications. If you have any concerns regarding ethics, safety, or potential misuse, please contact us.
+We advocate for the responsible development and use of AI and encourage the community to uphold safety and ethical principles in AI research and applications. 
 
 ## Contact Us
 If you are interested in leaving a message to our work, feel free to email jingbin.hu@mail.nwpu.edu.cn or lxie@nwpu.edu.cn
