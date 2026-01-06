@@ -32,11 +32,7 @@
 > **Note**
 >
 > - Models marked with `*` are commercial models.  
-> - **InstructTTSEval** — Huang, K., Tu, Q., Fan, L., Yang, C., Zhang, D., Li, S., Fei, Z., Cheng, Q., & Qiu, X. (2025).  
->   *InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems.*  
->   arXiv preprint arXiv:2506.16381.  
->   [arXiv](https://arxiv.org/abs/2506.16381)
-
+> - InstructTTSEval — InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems. arXiv preprint arXiv:2506.16381.
 
 ## ✨ Demo Video
 
