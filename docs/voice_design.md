@@ -99,3 +99,5 @@
 - [ ] 所有词汇均可感知、具象化
 
 ---
+## 致谢
+本音色设计文档参考Qwen3-TTS Voice Design文档 —— "如何编写高质量的声音描述？"[https://www.alibabacloud.com/help/zh/model-studio/qwen-tts-voice-design?spm=a2ty_o06.30285417.0.0.56a0c921aD94OF]
