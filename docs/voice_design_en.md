@@ -127,3 +127,6 @@ Before submitting a voice_prompt, make sure that:
 * [ ] All descriptors are perceptible and concrete
 
 ---
+## Acknowledgements 
+
+This voice design document references the Qwen3-TTS Voice Design document — "How to Write High-Quality Voice Descriptions?" [https://www.alibabacloud.com/help/zh/model-studio/qwen-tts-voice-design?spm=a2ty_o06.30285417.0.0.56a0c921aD94OF]
